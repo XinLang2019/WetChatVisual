@@ -34,10 +34,10 @@ df['StrTime'] = pd.to_datetime(df['StrTime'])
 plot_yearly_ratio(df)
 
 # 绘制年份热力图
-# plot_yearly_heatmaps(df)
+plot_yearly_heatmaps(df)
 
 # 绘制小时发送者比例
-# plot_hourly_sender(df)
+plot_hourly_sender(df)
 
 
 
