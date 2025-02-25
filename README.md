@@ -40,14 +40,13 @@ First, make sure you have Python and `pip` installed on your machine.
 
 ### 2. Export Chat Data
 
-- Use an **incognito software** tool to export the required chat data. The data should be in the correct format (such as JSON). Refer to the documentation of the incognito software for instructions on how to export the chat data.
+- Use an **incognito software** tool to export the required chat data. The data should be in the correct format (such as JSON). Refer to the documentation of the incognito software for instructions on how to export the chat data.(how to exported wechat data, you can reference this rpo: https://github.com/LC044/WeChatMsg.git).
 
 ---
 
 ### 3. Place Data in the `data` Folder
 
-- After exporting the wechat data, move or copy the exported data files into the `data` folder of the project.(how to exported wechat data, you can reference this rpo: https://github.com/LC044/WeChatMsg.git).
-
+- After exporting the wechat data, move or copy the exported data files into the `data` folder of the project.
    Ensure the data files are placed in the correct folder (`data/`) to be processed by the script.
 
 ---
